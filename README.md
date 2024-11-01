@@ -1,5 +1,6 @@
 # RAD_py
-Projeto aplicações rápidas em python
+Projeto aplicações rápidas em python feito por: Adryell Victor, Nicolas das Neves e Rodrigo Ferreira.
+
 # Tela Cheia Locadora ( Locadora de Filmes)
 
 Este é um projeto de uma aplicação de locadora de filmes, que permite a gestão de usuários e filmes usando uma interface gráfica simples em Python com Tkinter e um banco de dados SQLite.
